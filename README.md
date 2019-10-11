@@ -19,9 +19,9 @@ The data is also available publicly at <https://data.gov.in>. This is the Rainfa
 
 **a. Scatter Plot**
 
-![Per capita GDP vs per capita investment in R&D](images/fig1.png)
+![Amount of Rainfall vs Years(from 1901-2017)](images/rainfall_months_all.png)
 
-**Observation:** The scatter plot above shows the correlation between per capita GDP and investment in R&D for different countries. We observe that countries with higher GDP have higher investments into R&D.
+**Observation:** The scatter plot above shows the comparision between the different season of months based on the amount of rainfall. So we can easily conclude that June and July month have more rain than other.
 
 ## GDP and Major Industrial Sectors of Economy
 
