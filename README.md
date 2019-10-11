@@ -23,17 +23,16 @@ The data is also available publicly at <https://data.gov.in>. This is the Rainfa
 
 **Observation:** The scatter plot above shows the comparision between the different season of months based on the amount of rainfall. So we can easily conclude that June and July month have more rain than other.
 
-## GDP and Major Industrial Sectors of Economy
 
 **b. Box Plot**
 
-![Variability in contribution of different sectors to total GDP from 1951-2012](images/fig2.png)
+![Annual rainfall vs year(2011-2017)](images/box_plot.png)
 
-**Observation:** From the plot we observe that the min, max and median values of the service sector is higher than those of any other sector. This shows that service sector on an average has higher contribution to the total GDP. The sectors associated to agriculture also have a substantial contribution towards the GDP but they also have much larger variability. The mining and manufacturing industries consistently have a smaller contribution to the GDP.
+**Observation:**  This plot show the annual rainfall in india from the year 2011 to 2017 and how it's varies across different regions. The observation is the average annual rainfall is almost same but their are few outliers having low and high rain in a region.
 
 **c. Line Plot**
 
-![Trend in contribution of different sectors to total GDP from 1951-2012](images/fig3.png)
+![Trend in contribution of different sectors to total GDP from 1951-2012](images/line_plot_cum_all.png)
 
 **Observation:** The above line plot shows the trend in contribution of different sectors to the total GDP. This trend is not visible in box plot. From the above plot we see that over the years the contribution of agriculture sectors to GDP has declined while that of service sector has increased. The contribution of mining and quarring has almost remained constant over the years whereas the manufacturing and industrial sectors contibution has grown at a very low rate.
 
