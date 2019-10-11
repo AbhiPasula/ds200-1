@@ -15,7 +15,7 @@ This repository is dedicated to the Module 4 of the DS200.
 ## Dataset 
 The data is also available publicly at <https://data.gov.in>. This is the Rainfall data from 1901-2017 based on states, months and annually and all the pllots are made using this dataset. 
 
-## R&D Expenditure Per Capita and as Percentage of GDP for Selected Countries 2009 (in US$)
+## Sub Divisional Monthly Rainfall from 1901 to 2017 in India
 
 **a. Scatter Plot**
 
