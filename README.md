@@ -34,33 +34,16 @@ The data is also available publicly at <https://data.gov.in>. This is the Rainfa
 
 ![Cumulative rainfall for Lakshadweep](images/line_plot_cum_laks.png)
 
-**Observation:** The line plot shows the cumulative line plot for the Lakshadweep Union territory from 1901 to 2017 and it is observed that July have the most rainfall and Feburary have the least in the territory.
+**Observation:** The line plot shows the cumulative line plot for the Lakshadweep Union territory from 1901 to 2017 and it is observed that June have the most rainfall and March have the least rainfall in the territory.
 
 **c.2 Line Plot**
 
 ![Cumulative rainfall for India](images/line_plot_cum_all.png)
 
-**Observation:** The line plot shows the cumulative line plot for the Lakshadweep Union territory from 1901 to 2017 and it is observed that July have the most rainfall and Feburary have the least in the territory.
-
-## Citations
-
-1. R&D Expenditure Per Capita and as Percentage of GDP for Selected Countries 2009 (in US$) <br>
-Source : UIS, UNESCO (Website accessed on 11 August, 2013); World Development Indicators, The World Bank; * OECD Main S&T Indicators vol. 2011/2; Note: 1. # 2008; 2. % Estimate based on 2009-10 exchange rate, Economic Survey 2010-11.
-
-2. GDP of India and major Sectors of Economy, Share of each sector to GDP and Growth rate of GDP and other sectors of economy 1951-52 onward <br>
-Source : CSO
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+**Observation:** The line plot shows the cumulative line plot for the India considering all the states and UT from 1901 to 2017 and it is observed that July month have the most rainfall and in Feburary have the least rainfall in the country .
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+1. Data Sources: <https://data.gov.in>
+2. https://matplotlib.org/
+
