@@ -30,11 +30,17 @@ The data is also available publicly at <https://data.gov.in>. This is the Rainfa
 
 **Observation:**  This plot show the annual rainfall in india from the year 2011 to 2017 and how it's varies across different regions. The observation is the average annual rainfall is almost same but their are few outliers having low and high rain in a region.
 
-**c. Line Plot**
+**c.1 Line Plot**
 
-![Trend in contribution of different sectors to total GDP from 1951-2012](images/line_plot_cum_all.png)
+![Cumulative rainfall for Lakshadweep](images/line_plot_cum_laks.png)
 
-**Observation:** The above line plot shows the trend in contribution of different sectors to the total GDP. This trend is not visible in box plot. From the above plot we see that over the years the contribution of agriculture sectors to GDP has declined while that of service sector has increased. The contribution of mining and quarring has almost remained constant over the years whereas the manufacturing and industrial sectors contibution has grown at a very low rate.
+**Observation:** The line plot shows the cumulative line plot for the Lakshadweep Union territory from 1901 to 2017 and it is observed that July have the most rainfall and Feburary have the least in the territory.
+
+**c.2 Line Plot**
+
+![Cumulative rainfall for India](images/line_plot_cum_all.png)
+
+**Observation:** The line plot shows the cumulative line plot for the Lakshadweep Union territory from 1901 to 2017 and it is observed that July have the most rainfall and Feburary have the least in the territory.
 
 ## Citations
 
